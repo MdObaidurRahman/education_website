@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 2581,
+    "name": "Reading",
+    "duration": "4 months",
+    "price": 4500,
+    "img": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2018-08/IELTS%20Mock%20Test%20Reading.png",
+    "Location": "St.Jones Dhanmondi"
+  },
+  {
+    "_id": 2582,
+    "name": "Listening",
+    "duration": "4 Month",
+    "price": 5000,
+    "img": "https://yt3.ggpht.com/ytc/AKedOLQtswrq_TX6RhgOmra1UkqJzwovEHvV__Lk4T-j=s900-c-k-c0x00ffffff-no-rj",
+    "Location": "St.Jones Dhanmondi"
+  },
+  {
+    "_id": 2583,
+    "name": "Writing",
+    "duration": "2 Month",
+    "img": "https://www.ieltsasia.org/hk/sites/www.ieltsasia.org.hk/files/Writing%20Content%20visual%201.png",
+    "price": 5500,
+    "Location": "St.Jones Dhanmondi"
+  },
+  {
+    "_id": 2584,
+    "name": "Speaking",
+    "duration": "5 Month",
+    "img": "https://skypeclass.com/wp-content/uploads/2017/10/ielts-speaking.jpg",
+    "price": 6000,
+    "Location": "St.Jones Dhanmondi"
+  },
+  {
+    "_id": 2585,
+    "name": "Genaral Course",
+    "duration": "3 years",
+    "img": "https://d2m1cxyjdnd8tz.cloudfront.net/uploads/irs.ofabee.com/items_org/course/51.webp?v=69",
+    "price": 14500,
+    "Location": "St.Jones Dhanmondi"
+  },
+  {
+    "_id": 2586,
+    "name": "Academic Course",
+    "duration": "3 years",
+    "img": "https://soarscholarships.org/storage/app/public/scholarships/free-online-preparation-for-ielts-academic-test-2020-08-25-5f447de60e4f0.JPG",
+    "price": 14500,
+    "Location": "St.Jones Dhanmondi"
+  }
+]
